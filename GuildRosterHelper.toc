@@ -1,0 +1,14 @@
+## Interface: 20506
+## Interface-Classic: 11509
+## Interface-BCC: 20506
+## Interface-Cata: 40402
+## Interface-Mists: 50504
+## Interface-Retail: 120001, 120005, 120007, 120100, 120105, 120107
+## Title: Guild Roster Helper
+## Notes: Guild front desk: roster, shared profession lists, and crafting requests.
+## Author: Thalazar
+## Version: 2.0.4
+## IconTexture: Interface/AddOns/GuildRosterHelper/logo.tga
+## SavedVariables: GuildRosterHelperDB
+
+main.lua
